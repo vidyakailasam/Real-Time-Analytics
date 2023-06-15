@@ -8,13 +8,14 @@ Microsoft Fabric is a fully managed big data analytics platform optimized for st
 
 Steps:
 
-•	Create a KQL database
-•	Enable data copy to OneLake
-•	Create an eventstream
-•	Stream data from Eventstream to your KQL database
-•	Get additional historical data
-•	Explore data with KQL and SQL
-•	Create a KQL queryset
-•	Use advanced KQL queries
-•	Create a Power BI report
+1. Create a KQL database
+2. Enable data copy to OneLake
+3. Create an eventstream
+4. Stream data from Eventstream to your KQL database
+5. Get additional historical data
+6. Explore data with KQL and SQL
+7. Create a KQL queryset
+8. Use advanced KQL queries
+9. Create a Power BI report
+
 
